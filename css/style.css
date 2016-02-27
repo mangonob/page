@@ -5,6 +5,7 @@
   font-style: normal;
 }
 body {
+  height: 100%;
   font-family: Georgia, serif;
   background: #ddd;
   font-weight: 400;
